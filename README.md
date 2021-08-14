@@ -3,6 +3,7 @@
 <li>it has navigation bar</li>
 <li>And it is a design only</li>
 <li>it had Dashboard</li>
+<li>A dashboard designed as TODO app</li>
 <hr/>
 <h2>Demo was here</h2>
   
