@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+  background:#353353;
+  line-height: 1.6;
+  height: 100vh;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  position: absolute;
+  width: 1968%;
+  border: 3px solid #fff;
+  padding: 5px;
+  height: 40px;
+  border-radius: 5px;
+  background: #11101d;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+.searchButton {
+  position: absolute;
+  left: 1870%;
+  top: 4.5px;
+  width: 30px;
+  height: 30px;
+  border: 1px solid #fff;
+  background: #11101d;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  width: 30%;
+  position: absolute;
+  top: -40px;
+  left: 130%;
+  transform: translate(-50%, -50%);
+}
+.f{
+  position: absolute;
+  left: 300%;
+  display: grid;
+  margin-left: 0%;
+  height: 100%;
+  place-items: center;
+}
+.f .wrapp2{
+  position: absolute;
+  top: 700%;
+  left: -334px;
+  width: 200px;
+  height:150px;
+  box-shadow: 5px 5px 30px rgba(0,0,0,0.2);
+  background: #fff;
+  border-radius: 10px;
+}
+.f .wrapp2 .title2{
+  background: #333;
+  color: #fff;
+  line-height: 50px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 10px 10px 0 0;
+}
+.f .wrapp2 .heading{
+  position: absolute;
+  font-size: 17px;
+  font-family: 'Lobster', cursive;
+  top: 50px;
+  left: 10px;
+}
+.f .wrapp2 .paragraph{
+  position: absolute;
+  top: 80px;
+  left: 10px;
+  color: #000;
+}
+.f .wrapp2 h3{
+  position: absolute;
+  top: 110px;
+  font-style: bold;
+  left: 15px;
+  color: #625ad6;
+}
+.f .wrapp2 .btn2{
+  position: absolute;
+  top: 110px;
+  left: 110px;
+  border: #353353;
+  border-radius: 5px;
+  background: #625ad6;
+  color: #fff;
+}
+
