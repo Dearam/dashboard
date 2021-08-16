@@ -34,7 +34,7 @@ const Tform=(props)=>{
                         </button>
                         <br/><br/>
                         <hr/>
-                        <h4>Six Were allowed</h4>
+                        <h4>Five Were allowed</h4>
                 </div>
             </form>
     )
