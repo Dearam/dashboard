@@ -10,6 +10,48 @@
     padding: 6px 14px;
     
 }
+.call{
+    position: absolute;
+    top: -150px;
+    color: #fff;
+    font-size: 30px;
+    left: 230px;
+}
+.analy{
+    position: absolute;
+    top: -190px;
+    color: #fff;
+    font-size: 30px;
+    left: 230px;
+}
+.file{
+    position: absolute;
+    top: -240px;
+    color: #fff;
+    font-size: 30px;
+    left: 230px;
+}
+.orde{
+    position: absolute;
+    top: -280px;
+    color: #fff;
+    font-size: 30px;
+    left: 230px;
+}
+.save{
+    position: absolute;
+    top: -330px;
+    color: #fff;
+    font-size: 30px;
+    left: 230px;
+}
+.sett{
+    position: absolute;
+    top: -380px;
+    color: #fff;
+    font-size: 30px;
+    left: 230px;
+}
 
 .sidebar .logo_content .logo{
     color: #fff;
