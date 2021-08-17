@@ -1,0 +1,86 @@
+.s{
+    position: absolute;
+    left: 300%;
+    display: grid;
+    margin-left: 0%;
+    height: 100%;
+    place-items: center;
+  }
+  .s .wrapper3{
+    position: absolute;
+    top: 700%;
+    left: -100px;
+    width: 568px;
+    height:150px;
+    box-shadow: 5px 5px 30px rgba(0,0,0,0.2);
+    background: #fff;
+    border-radius: 10px;
+  }
+  .s .wrapper3 h3{
+      position: absolute;
+      top: 10px;
+      left: 10px;
+  }
+  .s .wrapper3 .st{
+      font-size: 43px;
+      color: rgb(82, 79, 221);
+      position: absolute;
+      top: 89px;
+      left: 10px;
+  }
+  .s .wrapper3 .u{
+    font-size: 40px;
+    color: rgb(38, 211, 241);
+    position: absolute;
+    top: 89px;
+    left: 21%;
+}
+.s .wrapper3 .c{
+  font-size: 40px;
+  color: rgb(253, 24, 24);
+  position: absolute;
+  top: 89px;
+  left: 48%;
+}
+.s .wrapper3 .d{
+  font-size: 40px;
+  color: rgb(53, 248, 53);
+  position: absolute;
+  top: 89px;
+  left: 74%;
+}
+  .s .wrapper3 .heading{
+    position: absolute;
+    font-size: 17px;
+    font-family: 'Lobster', cursive;
+    top: 50px;
+    left: 10px;
+  }
+  .s .wrapper3 .paragraph{
+    position: absolute;
+    top: 78px;
+    left: 10px;
+    color: #625ad6;
+  }
+  .s .wrapper3 .btn{
+    position: absolute;
+    top: 110px;
+    left: 140px;
+    border: #353353;
+    border-radius: 5px;
+    background: #625ad6;
+    color: #fff;
+  }
+
+  .s .wrapper3 .para{
+    position: absolute;
+    word-spacing: 60px;
+    top: 90px;
+    left: 50px;
+  }
+  .s .wrapper3 .sales{
+    position: absolute;
+    word-spacing: 80px;
+    top: 115px;
+    left: 50px;
+  }
